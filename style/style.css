@@ -1,0 +1,620 @@
+.swiper{
+  position: initial !important;
+}
+.swiper-button-next:after,
+.swiper-button-prev:after{
+  margin-bottom: 156px;
+  font-size: 20px !important;
+  color: white;
+}
+.our-work {
+  position: relative;
+  width: 1200px;
+  height: 1187px;
+  margin: 0 auto; 
+}
+
+.our-work .overlap {
+  left: 0;
+  position: absolute;
+  width: 592px;
+  height: 540px;
+  top: 91px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px -4px 9px #00000008, 0px -17px 17px #00000008, 0px -38px 23px #00000005, 0px -67px 27px transparent,
+    0px -105px 29px transparent;
+}
+
+.our-work .frame {
+  display: inline-flex;
+  flex-direction: column;
+  height: 540px;
+  align-items: flex-start;
+  padding: 0px 0px 20px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.our-work .object-card {
+  display: flex;
+  flex-wrap: wrap;
+  width: 592px;
+  height: 44px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 0px;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.our-work .div {
+  background-color: #000000;
+  display: flex;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.our-work .img {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.our-work .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Museo Sans Cyrl-700", Helvetica;
+  color: #ffffff;
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.our-work .frame-2 {
+  display: inline-flex;
+  height: 44px;
+  align-items: center;
+  gap: 4px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.our-work .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Museo Sans Cyrl-700", Helvetica;
+  color: #000000;
+  font-size: 15px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.our-work .div-2 {
+  display: flex;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #ffffff;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.our-work .frame-3 {
+  display: flex;
+  flex-direction: column;
+  width: 592px;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #ffffff;
+}
+
+.our-work .element {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  object-fit: cover;
+}
+
+.our-work .frame-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 0px 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.our-work .PARKVILLE {
+  font-family: "Museo Sans Cyrl-700", Helvetica;
+  font-size: 16px;
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.our-work .p {
+  position: relative;
+  align-self: stretch;
+  font-family: "Museo Sans Cyrl-300", Helvetica;
+  color: #000000;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.our-work .chevron-forward {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 142px;
+  left: 0;
+}
+
+.our-work .chevron-forward-2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 142px;
+  left: 556px;
+}
+
+.our-work .overlap-group {
+  left: 608px;
+  position: absolute;
+  width: 592px;
+  height: 540px;
+  top: 91px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px -4px 9px #00000008, 0px -17px 17px #00000008, 0px -38px 23px #00000005, 0px -67px 27px transparent,
+    0px -105px 29px transparent;
+}
+
+.our-work .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 540px;
+  align-items: flex-start;
+  padding: 0px 0px 20px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: var(--card);
+}
+
+.our-work .object-card-2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 592px;
+  height: 44px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 8px;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.our-work .frame-6 {
+  display: inline-flex;
+  height: 44px;
+  align-items: center;
+  gap: 4px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #000000;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.our-work .text-wrapper-3 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -18px;
+  font-family: "Museo Sans Cyrl-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.our-work .frame-7 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 540px;
+  align-items: flex-start;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 647px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: var(--card);
+}
+
+.our-work .frame-8 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 540px;
+  align-items: flex-start;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 647px;
+  left: 608px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: var(--card);
+}
+
+.our-work .text-wrapper-4 {
+  position: absolute;
+  width: 453px;
+  top: -1px;
+  left: 373px;
+  font-family: "Museo Sans Cyrl-900", Helvetica;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.leaders {
+  position: relative;
+  margin: 0 auto; 
+  width: 1200px;
+  height: 1468px;
+}
+
+.leaders .text-wrapper {
+  position: absolute;
+  width: 794px;
+  top: 20px;
+  left: 202px;
+  font-family: "Museo Sans Cyrl-900", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .frame {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  top: 137px;
+  left: 0;
+  background-color: var(--brandred);
+  border-radius: 20px;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .div {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Museo Sans Cyrl-900", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .p {
+  position: relative;
+  align-self: stretch;
+  font-family: "Museo Sans Cyrl-500", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  top: 137px;
+  left: 811px;
+  background-color: var(--brandred);
+  border-radius: 20px;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Museo Sans Cyrl-500", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  font-family: "Museo Sans Cyrl-900", Helvetica;
+  font-size: 64px;
+  text-align: center;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .frame-3 {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  top: 481px;
+  left: 404px;
+  background-color: var(--brandred);
+  border-radius: 20px;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .element {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Museo Sans Cyrl-900", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .overlap-group-wrapper {
+  width: 388px;
+  top: 481px;
+  left: 811px;
+  border-radius: 20px;
+  overflow: hidden;
+  background-image: url(img/frame-62.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .overlap-group {
+  position: relative;
+  width: 389px;
+  height: 297px;
+  top: 23px;
+}
+
+.leaders .rectangle {
+  position: absolute;
+  width: 389px;
+  height: 140px;
+  top: 157px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(217, 217, 217, 0) 100%, rgba(0, 0, 0, 0) 100%);
+}
+
+.leaders .text-wrapper-4 {
+  position: absolute;
+  width: 340px;
+  height: 272px;
+  top: 0;
+  left: 24px;
+  font-family: "Museo Sans Cyrl-700", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .div-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 32px;
+  padding: 24px;
+  top: 1148px;
+  left: 0;
+  border-radius: 20px;
+  background-image: url(img/frame-66.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .text-wrapper-5 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Museo Sans Cyrl-700", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .frame-4 {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 32px;
+  padding: 24px;
+  top: 811px;
+  left: 0;
+  background-color: var(--brandred);
+  border-radius: 20px;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .text-wrapper-6 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Museo Sans Cyrl-700", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .frame-5 {
+  display: flex;
+  flex-direction: column;
+  width: 794px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  top: 1148px;
+  left: 405px;
+  background-color: var(--brandred);
+  border-radius: 20px;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Museo Sans Cyrl-900", Helvetica;
+  font-size: 36px;
+  white-space: nowrap;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .overlap-wrapper {
+  width: 388px;
+  top: 811px;
+  left: 406px;
+  border-radius: 20px;
+  overflow: hidden;
+  background-image: url(./img/frame-67.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .frame-6 {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  top: 811px;
+  left: 812px;
+  background-color: var(--brandred);
+  border-radius: 20px;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .frame-7 {
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  top: 474px;
+  left: 0;
+  border-radius: 20px;
+  background-image: url(./img/frame-61.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 320px;
+  position: absolute;
+}
+
+.leaders .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  font-family: "Museo Sans Cyrl-900", Helvetica;
+  font-size: 36px;
+  text-align: center;
+  white-space: nowrap;
+  font-weight: 400;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.leaders .img {
+  width: 390px;
+  top: 137px;
+  left: 404px;
+  object-fit: cover;
+  height: 320px;
+  position: absolute;
+}
+

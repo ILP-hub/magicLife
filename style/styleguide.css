@@ -1,0 +1,7 @@
+:root {
+  --brandred: rgba(220, 1, 55, 1);
+  --card: 0px 4px 9px 0px rgba(0, 0, 0, 0.03), 0px 16px 16px 0px rgba(0, 0, 0, 0.03),
+    0px 36px 22px 0px rgba(0, 0, 0, 0.02), 0px 65px 26px 0px rgba(0, 0, 0, 0), 0px 101px 28px 0px rgba(0, 0, 0, 0);
+  --card-mobile: 0px 7px 16px 0px rgba(0, 0, 0, 0.06), 0px 29px 29px 0px rgba(0, 0, 0, 0.05),
+    0px 66px 40px 0px rgba(0, 0, 0, 0.03), 0px 118px 47px 0px rgba(0, 0, 0, 0.01), 0px 184px 52px 0px rgba(0, 0, 0, 0);
+}
